@@ -20,4 +20,4 @@ Via command line:
 
 `$ git clone https://github.com/puglisac/nothing-like-blackjack.git`  
 
-open MoviesApp.sln in [Visual Studio](https://visualstudio.microsoft.com/) and click Run to start.
+open ProgrammingAssignment2.sln in [Visual Studio](https://visualstudio.microsoft.com/) and click Run to start.
